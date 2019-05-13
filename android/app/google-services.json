@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "762714423103",
+    "firebase_url": "https://timer-2055d.firebaseio.com",
+    "project_id": "timer-2055d",
+    "storage_bucket": "timer-2055d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762714423103:android:fe41057b57e07f4b",
+        "android_client_info": {
+          "package_name": "code.timer.flutterapptimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762714423103-if676nnlevj0cbm8hsirsvmdnbh11f51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGnXzDf3svjhRLX06M0fFVbR6ZuGh-hg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
